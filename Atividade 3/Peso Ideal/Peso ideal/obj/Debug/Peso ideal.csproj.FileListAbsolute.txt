@@ -1,0 +1,20 @@
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\bin\Debug\Peso ideal.exe.config
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\bin\Debug\Peso ideal.exe
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\bin\Debug\Peso ideal.pdb
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso ideal.csprojAssemblyReference.cache
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso_ideal.Form1.resources
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso_ideal.Properties.Resources.resources
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso ideal.csproj.GenerateResource.cache
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso ideal.csproj.CoreCompileInputs.cache
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso ideal.exe
+C:\Users\jukat\Desktop\fatec\lp2\Peso ideal\Peso ideal\obj\Debug\Peso ideal.pdb
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso ideal.csprojResolveAssemblyReference.cache
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso_ideal.Form1.resources
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso ideal.csproj.GenerateResource.Cache
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso ideal.exe
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso ideal.pdb
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\bin\Debug\Peso ideal.exe.config
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\bin\Debug\Peso ideal.exe
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\bin\Debug\Peso ideal.pdb
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso_ideal.Properties.Resources.resources
+C:\Users\lucas_000\Desktop\Peso Ideal\Peso ideal\obj\Debug\Peso ideal.csproj.CoreCompileInputs.cache
